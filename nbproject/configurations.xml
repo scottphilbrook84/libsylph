@@ -47,6 +47,7 @@
           <itemPath>src/Sylph/Core/Collection.h</itemPath>
           <itemPath>src/Sylph/Core/Common.h</itemPath>
           <itemPath>src/Sylph/Core/Comparable.h</itemPath>
+          <itemPath>src/Sylph/Core/Container.h</itemPath>
           <itemPath>src/Sylph/Core/CurrentFunction.h</itemPath>
           <itemPath>src/Sylph/Core/Dictionary.h</itemPath>
           <itemPath>src/Sylph/Core/Equals.h</itemPath>
